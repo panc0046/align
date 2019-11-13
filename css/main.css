@@ -97,6 +97,9 @@ main{
     flex-direction: row;
 }
 
+.product h2,h3{
+    padding-bottom: 10px;
+}
 .product:hover{
     background-color: rgb(8, 0, 126);
 }
