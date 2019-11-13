@@ -35,12 +35,13 @@ header{
     background-image: url("../img/930-800x300.jpg");
     background-size: 100% 100%;
     background-position: center center;
+    height: 160px;
 }
 
 header h1{
     font-size: 3rem;
     line-height: 6rem;
-    padding: 10px;
+    padding: 32px;
 }
 
 nav{
