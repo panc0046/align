@@ -127,15 +127,15 @@ main{
 .info{
     padding: 10px;
 }
-
+footer {
+    padding: 4rem 0.5rem 0 0.5rem;
+}
 footer p{
     color: lightsteelblue;
     padding: 1rem;
     margin: 0.5rem;
     border: 0.1rem solid lightsteelblue;
 }
-
-
 
 @media (max-width: 550px) {
     header h1 {
